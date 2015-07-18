@@ -1,0 +1,12 @@
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\bin\Classical.Demo.dll.config
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\bin\Classical.Demo.dll
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\bin\Classical.Demo.pdb
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.csprojResolveAssemblyReference.cache
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.dll
+C:\Users\drubino\Documents\Visual Studio 2013\Projects\Scrap\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.pdb
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\bin\Classical.Demo.dll.config
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\bin\Classical.Demo.dll
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\bin\Classical.Demo.pdb
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.csprojResolveAssemblyReference.cache
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.dll
+C:\Users\drubino\Documents\Software\Classical.Demo\Classical.Demo\obj\Debug\Classical.Demo.pdb

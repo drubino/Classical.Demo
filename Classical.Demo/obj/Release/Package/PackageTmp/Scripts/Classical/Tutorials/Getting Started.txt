@@ -1,0 +1,11 @@
+﻿
+Visual Studio
+1) Right-click on the project with classical.js. 
+   The project is distinct from the solution, which is the topmost entry in the solution explorer.
+2) Select "properties" at the bottom on the list.
+3) Choose "Web" on the left
+4) Note the state of this page: "Current Page", "Specific Page" so you can quickly restore it.
+5) For "Start Action" select the "Specific Page" radio button.
+6) Add the following route as the "Specific Page":
+   /Scripts/Classical/Tutorials/introduction.html
+7) Read through Introduction.ts while running app.
