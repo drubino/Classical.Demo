@@ -48,8 +48,8 @@
                         fullName: t.fullName
                     }
                 })
-                    .orderBy(t => t.fullName)
-                    .select(t => [
+                .orderBy(t => t.fullName)
+                .select(t => [
                     u.format('Class Name:    {0}', t.name),
                     u.format(':   Full Name: {0}', t.fullName)
                 ])

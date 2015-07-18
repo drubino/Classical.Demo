@@ -36,6 +36,7 @@ var Demo;
         ]; })
             .selectMany(function (a) { return a; }));
     };
+    //#region Utilities
     function log(message, input) {
         console.log(message);
         b(message);
@@ -67,3 +68,4 @@ var Demo;
         body.appendChild(br);
     }
 })(Demo || (Demo = {}));
+//# sourceMappingURL=demo.js.map
